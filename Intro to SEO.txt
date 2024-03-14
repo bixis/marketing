@@ -1,0 +1,4 @@
+INTRO TO SEO (Search Engine Optimization)
+
+Good introductory courses to follow within the wordpress ecosystem. 
+    - https://wordpress.com/learn/courses/intro-to-seo/start-here/
